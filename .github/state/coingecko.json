@@ -567,7 +567,7 @@
     },
     {
       "coingecko_id": "axelar-usdt",
-      "name": "Bridged Tether (Axelar)",
+      "name": "Axelar Bridged USDT",
       "symbol": "AXLUSDT",
       "assets": [
         {
